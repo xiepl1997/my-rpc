@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.xpl.study.provider.RpcProviderAutoConfiguration,\
+com.xpl.study.consumer.RpcConsumerAutoConfiguration
